@@ -1,6 +1,6 @@
-### Hi there 👋 <img src="https://gpvc.arturio.dev/IbsanjU" alt="Bharath Kumar R" />
+## Hi, I'm Bharath Kumar 👋 <img src="https://komarev.com/ghpvc/?username=IbsanjU&label=Profile+Views&color=brightgreen&style=plastic" alt="Bharath Kumar R" />
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibsanju&label=Profile Views&color=yellow&style=plastic" alt="Bharath Kumar R" /> </p> -->
+<!-- <p align="left"> <img src="https://gpvc.arturio.dev/IbsanjU" alt="Bharath Kumar R" /> |  </p> -->
 <p align='center'>Flutter | Android | Web | Java</p>
 
 
