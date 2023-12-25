@@ -1,7 +1,7 @@
 ## Hi, I'm Bharath Kumar 👋 <img src="https://komarev.com/ghpvc/?username=IbsanjU&label=Profile+Views&color=brightgreen&style=plastic" alt="Bharath Kumar R" />
 
 <!-- <p align="left"> <img src="https://gpvc.arturio.dev/IbsanjU" alt="Bharath Kumar R" /> |  </p> -->
-<p align='center'>Flutter | Android | Web | Java</p>
+<p align='center'>Node | Java | Android | Web | Flutter</p>
 
 
 <p align='center'>  
@@ -34,8 +34,8 @@
 -->
   
  <p align='center'>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=IbsanjU&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"> -->
-   <img src="https://github-readme-stats.vercel.app/api?username=ibsanju&show_icons=true&theme=radical&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=IbsanjU&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<!--    <img src="https://github-readme-stats.vercel.app/api?username=ibsanju&show_icons=true&theme=radical&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"> -->
   </p>
 <!--
 ## Bharath Kumar Revana
